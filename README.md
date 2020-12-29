@@ -1,2 +1,2 @@
 # CrossZero
- Game on JS by WebSocket
+ Game on JavaScript by WebSocket
